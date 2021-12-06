@@ -27,7 +27,7 @@ JS的组成部分：
 - DOM的用途：用于操作HTML文档。（操作：增、删、改、查）
 
 DOM树状结构示意图
-![DOM树](images/ct_htmltree.gif)
+![DOM树](./images/ct_htmltree.gif)
 
 
 ## Document对象
